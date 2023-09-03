@@ -1,0 +1,8 @@
+percent: 1
+
+# Database
+datasource:
+  driver: org.postgresql.Driver
+  url: jdbc:postgresql://localhost:5432/clever_bank
+  user: postgres
+  password: 963Luda963
